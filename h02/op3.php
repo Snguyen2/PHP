@@ -5,7 +5,7 @@
  * Date: 6-1-2019
  * Time: 21:41
  */
-$zin = "Mensen die geen ";
+$zin = "Mensen ";
 
 $a = "die geen fout";
 
