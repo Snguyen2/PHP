@@ -11,19 +11,19 @@
 <html>
 <head>
     <title>Functies</title>
-    <style>
-        input{
-            margin-right:89.6%;
-            padding:0px;
-            float:right;
-
-        }
-        #submit {
-            margin-top:1%;
-        }
-    </style>
 </head>
 <body>
+<style>
+    input{
+        margin-right:89.6%;
+        padding:0px;
+        float:right;
+
+    }
+    #submit {
+        margin-top:1%;
+    }
+</style>
 <form action="op1.php" method="post">
     Celcius naar Fahrenheit<input type="text" name="waarde"><br>
     <?php //celcius/Fahrenheit
