@@ -21,9 +21,6 @@
         margin: 0.4% 0 0 0.2%;
 
     }
-    .Aa {
-        float:right;
-    }
     img{
         height:210px;
         width:210px;
