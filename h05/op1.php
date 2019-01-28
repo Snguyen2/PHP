@@ -37,9 +37,9 @@ if($name == "" || $name == " "){
 }
 if($a = true) {
     echo "Hallo " . $name . "<br>";
-    echo "Uw email is: " . $email . "<br>";
+    echo "Uw email is " . $email . "<br>";
     echo "Uw wachtwoord is " . $wachtwoord . " cijfers lang.<br>";
-    echo "Uw adres" . $adres;
+    echo "Uw adres is " . $adres;
 } else {
     $a = false;
 }
